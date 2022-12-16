@@ -8,5 +8,10 @@ Find the expression value assign to 'answer'.  a - b + c
 
 */
 void main() {
-  //write your code here
+  int a=12;
+  int b=4;
+  int c=1;
+  answer=a-b+c;
+  print(a-b+c);
+  print(answer);
 }

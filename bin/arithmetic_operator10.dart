@@ -9,5 +9,11 @@ Find the expression value assign to 'answer'.  a*b / c+d .
 
 */
 void main() {
-  //write your code here
+  int a=8;
+  int b=5;
+  int c=2;
+  int d=6;
+  answer=a*b / c+d;
+  print(a*b / c+d);
+  print(answer);
 }

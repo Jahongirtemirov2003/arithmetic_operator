@@ -7,5 +7,9 @@ Find the division of a and b then assign to "answer".
 
 */
 void main() {
-  //write your code here
+  int a=72;
+  int b=9;
+  answer= a~/b;
+  print(a~/b);
+  print(answer);
 }
